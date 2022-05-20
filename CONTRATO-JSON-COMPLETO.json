@@ -1,0 +1,86 @@
+{
+  "Id": "AAAfe6ABXAAABffAAO",
+  "CodigoRegional": "12",
+  "Regional": "UBERLANDIA",
+  "Filial": "7856",
+  "TipoPreco": "DEF-B",
+  "Status": "E",
+  "NumeroContrato": "7856P01168S",
+  "Produto": {
+    "CodigoProduto": "001",
+    "NomeProduto": "SOJA",
+    "Safra": 2020
+  },
+  "Cliente": {
+    "EntidadeId": 10462167,
+    "CpfCnpj": "124.814.366-36",
+    "Nome": "JOAO VITOR PEREIRA FERREIRA FONTOURA"
+  },
+  "CodigoNegocio": "20",
+  "TipoNegociacao": "CIF",
+  "FinalidadeFiscal": "I",
+  "InicioEntrega": "2022-01-01 11:11:00",
+  "FimEntrega": "2022-01-01 11:11:00",
+  "QuantidadeContratada": 0,
+  "Emissao": "2022-01-01 11:11:00",
+  "SequenciaContrato": 1,
+  "SubPreco": 0,
+  "FinalidadeCTFP": "I",
+  "CodigoNegocioCTFP": "20",
+  "NegocioCTFP": "CIF",
+  "InicioEntregaCTFP": "2022-01-01 11:11:00",
+  "FimEntregaCTFP": "2022-01-01 11:11:00",
+  "QuantidadeFixada": 62681,
+  "Moeda": "US$D",
+  "Preco": 83.5,
+  "UnidadePreco": "SC6",
+  "TravamentoTaxa": "1",
+  "DataTravamento": null,
+  "DataCotacao": null,
+  "Washout": 0,
+  "Desdobro": null,
+  "Aplicado": 62681,
+  "AplicadoNF": 62681,
+  "Hedge": {
+    "DataPrevistaPagamento": "2022-01-01 11:11:00",
+    "NumeroHedge": 752605
+  },
+  "Entrega": {
+    "Produtor": {
+      "EntidadeId": 10462167,
+      "CpfCnpj": "124.814.366-36",
+      "Nome": "JOAO VITOR PEREIRA FERREIRA FONTOURA"
+    },
+    "TipoMovimentacao": "E",
+    "NomeFazenda": "FAZ SANTA JACINTA S/N",
+    "MunicipioFazenda": "CAPINOPOLIS",
+    "UF": "MG",
+    "PesoEntrega": 62681,
+    "CodigoEndereco": 10462167
+  },
+  "Pagamento": {
+    "Beneficiario": {
+      "EntidadeId": 10462167,
+      "CpfCnpj": "124.814.366-36",
+      "Nome": "JOAO VITOR PEREIRA FERREIRA FONTOURA"
+    },
+    "CodigoModalidade": "CAG",
+    "Modalidade": "CAG - PAGTO VINC CARTEIRA AGRICOL BC",
+    "CodigoBanco": "00001",
+    "Banco": "00001 - BANCO DO BRASIL",
+    "Agencia": "784",
+    "DigitoAgencia": "6",
+    "Conta": "23640",
+    "Digito": "3"
+  },
+  "PreFinanciamento": {
+    "Situacao": "D",
+    "DataUltimo": null,
+    "UsuarioUltimo": null,
+    "Observacao": null,
+    "CodigoDivisao": "10",
+    "DataAlteracao": "2022-01-01 11:11:00",
+    "DataEnvioPortal": null
+  },
+  "Observacao": "WEB"
+}
